@@ -1,6 +1,6 @@
 # Innovation_Studio_Module1_Quizzes
 
-## Python Quiz
+## Python Quiz (10/12 correct)
 
 1. Which statement correctly assigns the integer 10 to a variable named 'count'?
 
@@ -111,7 +111,7 @@ D) No indentation needed
 + Answer: C) Tabs only
 + Correct Answer: B) 4 spaces
 
-+ Why I got it wrong: 
++ Why I got it wrong: I have only ever used tabs for python indentation, but it is helpful to know that 4 spaces and tabs are the same distance visually.
 
 11. Which statement skips the rest of the current loop iteration and continues with the next?
 
@@ -126,7 +126,7 @@ D) pass
 + Answer: D) pass
 + correct answer: C) continue
 
-Why I got it wrong:
+Why I got it wrong: I have yet to use continue in my scripts, however this makes sense for multiple loop situations.
 
 12. How do you start a single-line comment in Python?
 
