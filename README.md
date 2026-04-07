@@ -252,7 +252,91 @@ My Answer - Commit
 
 Why I got it wrong: I am confused on the syntax for transactions. I will play around with this in a seperate submission.
 
-## OOP Algorithims Quiz
+## OOP Algorithims Quiz (9/12)
+
+### 1. Which keyword is used to define a new class in Python?
+- [ ] def (Incorrect)
+- [x] **class** (Correct)
+- [ ] struct (Incorrect)
+- [ ] new (Incorrect)
+
+### 2. Which special method initializes object state when a class instance is created?
+- [ ] \_\_start\_\_ (Incorrect)
+- [x] **\_\_init\_\_** (Correct)
+- [ ] begin (Incorrect)
+- [ ] constructor (Incorrect)
+
+### 3. A subclass providing its own version of a parent method is an example of...
+- [ ] overloading (Incorrect)
+- [x] **overriding** (Correct)
+- [ ] encapsulation (Incorrect)
+- [ ] abstraction (Incorrect)
+
+My Answer: abstraction
+
+Why I got it wrong: I thought abstraction meant blurring the parent method, but apparently it is the covering up of complex details
+
+### 4. What is a primary benefit of using inheritance in object-oriented design?
+- [ ] Forcing static methods (Incorrect)
+- [ ] Avoiding objects (Incorrect)
+- [x] **Reusing existing code** (Correct)
+- [ ] Increasing code duplication (Incorrect)
+
+### 5. Which sorting algorithm generally has the best average time complexity?
+- [ ] Bubble Sort (Incorrect)
+- [ ] Insertion Sort (Incorrect)
+- [x] **Merge Sort** (Correct)
+- [ ] Selection Sort (Incorrect)
+
+### 6. Big O notation describes...
+- [ ] exact runtime in seconds (Incorrect)
+- [x] **the worst-case growth rate of an algorithm** (Correct)
+- [ ] how many lines of code you wrote (Incorrect)
+- [ ] the precise memory address (Incorrect)
+
+### 7. When searching a sorted list, which algorithm is more efficient than linear search?
+- [ ] Depth-first search (Incorrect)
+- [ ] Random search (Incorrect)
+- [x] **Binary search** (Correct)
+- [ ] Breadth-first search (Incorrect)
+
+### 8. What is the worst-case time complexity of Bubble Sort?
+- [ ] O(n) (Incorrect)
+- [ ] O(n log n) (Incorrect)
+- [ ] O(log n) (Incorrect)
+- [x] **O(n^2)** (Correct)
+
+### 9. Which data structure is typically used to implement breadth-first search (BFS)?
+- [ ] Stack (Incorrect)
+- [x] **Queue** (Correct)
+- [ ] Priority Queue (Incorrect)
+- [ ] Dictionary (Incorrect)
+
+My Answer: Dictionary
+
+Why I got it wrong: I have yet to utilize Queue so I was confused with how it worked.
+
+### 10. Adding an item to the end of a Python list takes which amount of time on average?
+- [ ] O(log n) (Incorrect)
+- [ ] O(n) (Incorrect)
+- [x] **O(1)** (Correct)
+- [ ] O(n^2) (Incorrect)
+
+### 11. Which algorithm is considered stable and efficient for nearly sorted data?
+- [ ] Quick Sort (Incorrect)
+- [ ] Heap Sort (Incorrect)
+- [x] **Insertion Sort** (Correct)
+- [ ] Selection Sort (Incorrect)
+
+My Answer: Quick Sort
+
+Why I got it wrong: I saw "efficient" and instinctively went with Quick Sort
+
+### 12. What is the time complexity of binary search?
+- [ ] O(n) (Incorrect)
+- [ ] O(n^2) (Incorrect)
+- [x] **O(log n)** (Correct)
+- [ ] O(n log n) (Incorrect)
 
 
 
