@@ -12,7 +12,7 @@ C) let count := 10
 
 D) var count = 10
 
-+ Answer: A) count = 10
+Answer: A) count = 10
 
 
 2. Which of the following is a valid Python list?
@@ -25,7 +25,7 @@ C) {1, 2, 3}
 
 D) 1, 2, 3
 
-+ Answer: A) [1, 2, 3]
+Answer: A) [1, 2, 3]
 
 
 3. What keyword starts a loop that iterates over items in a list?
@@ -38,7 +38,7 @@ C) loop
 
 D) repeat
 
-+ Answer: A) for
+Answer: A) for
 
 
 4. Which keyword exits a loop early?
@@ -51,7 +51,7 @@ C) break
 
 D) skip
 
-+ Answer: C) break
+Answer: C) break
 
 
 5. How do you define a function in Python?
@@ -64,7 +64,7 @@ C) func greet()
 
 D) define greet():
 
-+ Answer: B) def greet():
+Answer: B) def greet():
 
 
 6. What is the correct way to call a function named 'calculate' with argument 5?
