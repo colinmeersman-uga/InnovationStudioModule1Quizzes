@@ -77,7 +77,7 @@ C) calculate = 5
 
 D) function calculate(5)
 
-+ Answer: A) calculate(5)
+Answer: A) calculate(5)
 
 
 7. What does the 'return' keyword do in a function?
@@ -90,7 +90,7 @@ C) sends back a value to the caller
 
 D) skips to the next iteration
 
-+ Answer: C) sends back a value to the caller
+Answer: C) sends back a value to the caller
 
 
 8. Which operator checks equality between two values?
@@ -103,7 +103,7 @@ C) ===
 
 D) !=
 
-+ Answer: B) ==
+Answer: B) ==
 
 
 9. By convention, how many spaces should each indentation level be?
@@ -116,11 +116,12 @@ C) Tabs only
 
 D) No indentation needed
 
-+ Answer: C) Tabs only
-+ Correct Answer: B) 4 spaces
+Answer: C) Tabs only
+
+Correct Answer: B) 4 spaces
 
 
-+ Why I got it wrong: I have only ever used tabs for python indentation, but it is helpful to know that 4 spaces and tabs are the same distance visually.
+Why I got it wrong: I have only ever used tabs for python indentation, but it is helpful to know that 4 spaces and tabs are the same distance visually.
 
 
 11. Which statement skips the rest of the current loop iteration and continues with the next?
@@ -133,8 +134,9 @@ C) continue
 
 D) pass
 
-+ Answer: D) pass
-+ correct answer: C) continue
+Answer: D) pass
+
+correct answer: C) continue
 
 Why I got it wrong: I have yet to use continue in my scripts, however this makes sense for multiple loop situations.
 
@@ -149,7 +151,7 @@ C) --
 
 D) /*
 
-+ Answer: B) #
+Answer: B) #
 
 
 13. Which built-in function outputs text to the console?
@@ -162,7 +164,7 @@ C) console.log()
 
 D) write()
 
-+ Answer: A) print()
+Answer: A) print()
 
 
 
