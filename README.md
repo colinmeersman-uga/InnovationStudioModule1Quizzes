@@ -170,7 +170,77 @@ Answer: A) print()
 
 ## SQL Quiz
 
+### 1. Which SQL command retrieves rows from a table?
+- [x] **SELECT** (Correct)
+- [ ] INSERT (Incorrect)
+- [ ] UPDATE (Incorrect)
+- [ ] DELETE (Incorrect)
 
+### 2. What does the WHERE clause do in a query?
+- [ ] Sorts the results (Incorrect)
+- [ ] Limits how many rows return (Incorrect)
+- [x] **Filters rows based on a condition** (Correct)
+- [ ] Creates a new table (Incorrect)
+
+### 3. Which command would you use to add a new employee record?
+- [x] **INSERT INTO employees** (Correct)
+- [ ] UPDATE employees (Incorrect)
+- [ ] SELECT * FROM employees (Incorrect)
+- [ ] DELETE FROM employees (Incorrect)
+
+### 4. Which statement modifies data that already exists?
+- [ ] SELECT (Incorrect)
+- [ ] INSERT (Incorrect)
+- [x] **UPDATE** (Correct)
+- [ ] CREATE (Incorrect)
+
+### 5. Why should you include a WHERE clause with UPDATE or DELETE?
+- [ ] To change the table's name (Incorrect)
+- [x] **To avoid affecting every row** (Correct)
+- [ ] To sort the output (Incorrect)
+- [ ] To increase query speed (Incorrect)
+
+### 6. Which keyword sorts query results by salary from highest to lowest?
+- [ ] GROUP BY (Incorrect)
+- [x] **ORDER BY salary DESC** (Correct)
+- [ ] LIMIT (Incorrect)
+- [ ] BETWEEN (Incorrect)
+
+### 7. The LIKE operator is used to...
+- [ ] Calculate totals (Incorrect)
+- [x] **Search for a text pattern** (Correct)
+- [ ] Delete rows (Incorrect)
+- [ ] Grant permissions (Incorrect)
+
+### 8. Which aggregate function returns the average salary?
+- [ ] SUM (Incorrect)
+- [ ] COUNT (Incorrect)
+- [x] **AVG** (Correct)
+- [ ] MIN (Incorrect)
+
+### 9. To count employees in each role, which clause pairs with COUNT(*)?
+- [ ] ORDER BY (Incorrect)
+- [x] **GROUP BY** (Correct)
+- [ ] HAVING (Incorrect)
+- [ ] JOIN (Incorrect)
+
+### 10. What does the PRIMARY KEY constraint guarantee?
+- [x] **Values are unique and identify each row** (Correct)
+- [ ] Column cannot be empty (Incorrect)
+- [ ] Values are always positive (Incorrect)
+- [ ] Rows are sorted by ID (Incorrect)
+
+### 11. Which command permanently removes rows matching a condition?
+- [ ] UPDATE (Incorrect)
+- [x] **DELETE** (Correct)
+- [ ] DROP (Incorrect)
+- [ ] ALTER (Incorrect)
+
+### 12. Starting a transaction begins with which statement?
+- [x] **BEGIN TRANSACTION** (Correct)
+- [ ] SAVEPOINT (Incorrect)
+- [ ] ROLLBACK (Incorrect)
+- [ ] COMMIT (Incorrect)
 
 
 ## OOP Algorithims Quiz
