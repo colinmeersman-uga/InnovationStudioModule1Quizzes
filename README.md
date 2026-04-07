@@ -168,7 +168,9 @@ Answer: A) print()
 
 
 
-## SQL Quiz
+## SQL Quiz (10/12)
+Testing out a different Markdown Method here
+
 
 ### 1. Which SQL command retrieves rows from a table?
 - [x] **SELECT** (Correct)
@@ -187,6 +189,10 @@ Answer: A) print()
 - [ ] UPDATE employees (Incorrect)
 - [ ] SELECT * FROM employees (Incorrect)
 - [ ] DELETE FROM employees (Incorrect)
+
+My answer - UPDATE employees
+
+Why I got this wrong: My SQL class went deep into querrying and the nuances of that, but we did little work on adding or updating data. This will be something I will have to pay special attention to in the future.
 
 ### 4. Which statement modifies data that already exists?
 - [ ] SELECT (Incorrect)
@@ -242,6 +248,9 @@ Answer: A) print()
 - [ ] ROLLBACK (Incorrect)
 - [ ] COMMIT (Incorrect)
 
+My Answer - Commit
+
+Why I got it wrong: I am confused on the syntax for transactions. I will play around with this in a seperate submission.
 
 ## OOP Algorithims Quiz
 
