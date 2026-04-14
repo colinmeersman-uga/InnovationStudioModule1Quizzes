@@ -1,6 +1,6 @@
 # Innovation_Studio_Module1_Quizzes
 
-## Python Quiz (11/13 correct)
+## Python Quiz (11/13)
 
 1. Which statement correctly assigns the integer 10 to a variable named 'count'?
 
@@ -339,10 +339,37 @@ Why I got it wrong: I saw "efficient" and instinctively went with Quick Sort
 - [ ] O(n log n) (Incorrect)
 
 
+## SOLID Principals Quiz (4/5)
 
+### 1. What does the 'S' in SOLID stand for?
+- [ ] Standardization
+- [x] Single Responsibility
+- [ ] System Design
+- [ ] Simple Integration
 
-## SOLID Pricipals Quiz
+### 2. Which principle encourages extending code behavior without modifying existing classes?
+- [x] Open/Closed
+- [ ] Interface Segregation
+- [ ] Dependency Inversion
+- [ ] Liskov Substitution
 
+### 3. Violating the Liskov Substitution Principle often results in...
+- [x] Fragile inheritance hierarchies
+- [ ] Duplicate interfaces
+- [ ] Loose coupling
+- [ ] Simpler code
+
+### 4. The Interface Segregation Principle suggests that...
+- [ ] one large interface is better than many small ones
+- [x] clients should depend on interfaces they use
+- [ ] interfaces must have default implementations
+- [ ] inheritance should be avoided
+
+### 5. Dependency Inversion promotes...
+- [ ] depending on concrete classes
+- [ ] separating data from behavior
+- [x] relying on abstractions
+- [ ] always using inheritance
 
 
 
