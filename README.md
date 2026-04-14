@@ -1,6 +1,6 @@
 # Innovation_Studio_Module1_Quizzes
 
-## Python Quiz (11/13)
+# Python Quiz (11/13)
 
 1. Which statement correctly assigns the integer 10 to a variable named 'count'?
 
@@ -177,7 +177,7 @@ Answer: A) print()
 
 
 
-## SQL Quiz (10/12)
+# SQL Quiz (10/12)
 Testing out a different Markdown Method here
 
 
@@ -272,7 +272,7 @@ Why I got it wrong: I am confused on the syntax for transactions. I will play ar
 
 
 
-## OOP Algorithims Quiz (9/12)
+# OOP Algorithims Quiz (9/12)
 
 ### 1. Which keyword is used to define a new class in Python?
 - [ ] def (Incorrect)
@@ -369,7 +369,7 @@ Why I got it wrong: I saw "efficient" and instinctively went with Quick Sort
 
 
 
-## SOLID Principals Quiz (4/5)
+# SOLID Principals Quiz (4/5)
 
 ### 1. What does the 'S' in SOLID stand for?
 - [ ] Standardization
