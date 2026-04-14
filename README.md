@@ -372,5 +372,6 @@ Why I got it wrong: I saw "efficient" and instinctively went with Quick Sort
 - [ ] always using inheritance
 
 What I put: "always using inheritance"
+
 Why I got it wrong: I forgot what dependency inversion was
 
