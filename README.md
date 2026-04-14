@@ -168,6 +168,15 @@ Answer: A) print()
 
 
 
+
+
+
+
+
+
+
+
+
 ## SQL Quiz (10/12)
 Testing out a different Markdown Method here
 
@@ -251,6 +260,17 @@ Why I got this wrong: My SQL class went deep into querrying and the nuances of t
 My Answer - Commit
 
 Why I got it wrong: I am confused on the syntax for transactions. I will play around with this in a seperate submission.
+
+
+
+
+
+
+
+
+
+
+
 
 ## OOP Algorithims Quiz (9/12)
 
@@ -337,6 +357,16 @@ Why I got it wrong: I saw "efficient" and instinctively went with Quick Sort
 - [ ] O(n^2) (Incorrect)
 - [x] **O(log n)** (Correct)
 - [ ] O(n log n) (Incorrect)
+
+
+
+
+
+
+
+
+
+
 
 
 ## SOLID Principals Quiz (4/5)
